@@ -1,0 +1,53 @@
+body
+{
+    background-color:rgb(189, 226, 243)
+   
+}
+
+header 
+{
+    height :75px;  
+}
+
+footer
+{
+    position: fixed;
+    height : 70px;
+    left: 0;    
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+h5,h4
+{
+  text-align: center;  
+}
+
+h1 
+{
+    font-size: 60px;
+}
+.myMargin
+{
+    margin-top: 44px;
+}
+.resultat
+{
+    margin-left: 50px ;  
+}
+Button
+{
+      
+    color: grey;
+    margin-top: 2px; 
+}
+
+.stryka
+{
+    text-decoration: line-through;
+    background-color: black;
+    color: white;
+}
